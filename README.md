@@ -1,6 +1,8 @@
 # Amazing Starter Website in HTML-CSS
 <div> A simple website created using only HTML and CSS </div>
-Site includes two working webpages and active navigation bar. Only Home and Contact links are working. NOTE: All other links including About,News,Social Media, and More Amazingness, are inactive.
+Site includes two working webpages and active navigation bar. Only Home and Contact links are working. 
+<div>NOTE: All other links including About,News, (links in this Readme) Social Media and More Amazingness, are inactive.</div>
+<br>
 Click <a href="https://ajproanimator.github.io/MyFirstWebsite/">HERE </a> to see it in action,
 and <a href="Web Image.jpg">HERE</a> to say hello!
 
