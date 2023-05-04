@@ -24,5 +24,4 @@ and <a href="Web Image.jpg">HERE</a> to say hello!
 <h2>Author</h2>
 <p>Alan J</p>
 
-<a href="www.linkedin.com/in/
-alan-joseph-bsn-rn-42411116">Social Media Link </a> and <a href="url">More Amazingness! </a></div>
+<a href="www.linkedin.com">Social Media Link </a> and <a href="url">More Amazingness! </a></div>
